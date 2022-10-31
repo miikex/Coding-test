@@ -61,7 +61,7 @@ const Navbar = () => {
                 </ListItemButton>
               </ListItem>
             </Link>
-            <Link to="/assignEmployees">
+            <Link to="/assignEmployees" style={{ textDecoration: "none" }}>
               <ListItem>
                 <ListItemButton>
                   <ListItemIcon>
